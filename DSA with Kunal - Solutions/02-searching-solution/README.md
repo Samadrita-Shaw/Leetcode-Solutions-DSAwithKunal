@@ -41,3 +41,5 @@
 | 16. | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Pending |
 | 17. | [4 Sum](https://leetcode.com/problems/4sum/) | Pending |
 
+## 3.Hard
+*Solutions will be soon updated*
