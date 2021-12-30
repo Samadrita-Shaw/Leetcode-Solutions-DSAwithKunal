@@ -1,5 +1,5 @@
-# Leetcode Array Questions and Solutions
-## 1.Easy
+# 📝Leetcode Array Questions and Solutions
+## 1.Easy 🟢
 | S.No | Questions | Solutions |
 | :---: | :---: | :---: |
 | 1. | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/01-arrays-solution/1-Easy/ZeroBasedPermutation.java) |
@@ -30,7 +30,7 @@
 | 26. | [Plus One](https://leetcode.com/problems/plus-one/) | Pending |
 | 27. | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Pending |
 
-## 2.Medium
+## 2.Medium 🟠
 | S.No | Questions | Solutions |
 | :---: | :---: | :---: |
 | 1. | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/01-arrays-solution/2-Medium/SpiralMatrix.java) |
@@ -44,5 +44,5 @@
 | 9. | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Pending |
 | 10. | [House Robber](https://leetcode.com/problems/house-robber/) | Pending |
 
-## 3.Hard
+## 3.Hard 🔴
 *Will be updated soon.*
