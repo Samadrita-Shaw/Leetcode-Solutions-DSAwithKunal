@@ -48,3 +48,6 @@
 | 11. | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/03-sorting-solution/2-Medium/Find_Duplicate.java) |
 | 12. | [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/03-sorting-solution/2-Medium/FindAllDuplicates.java) |
 ## 3. Hard 🔴
+| S.No | Questions | Solutions |
+|:--: | :--: | :--: |
+| 1. | [First missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/03-sorting-solution/3-Hard/FirstMissing_Positive.java) |
