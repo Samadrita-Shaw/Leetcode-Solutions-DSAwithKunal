@@ -1,5 +1,5 @@
-# Leetcode Searching Questions and Solutions
-## 1.Easy
+# 📝Leetcode Searching Questions and Solutions
+## 1.Easy 🟢
 | S.No | Questions | Solutions |
 | :---: | :---: | :---: |
 | 1. | [Square Root](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/02-searching-solution/1-Easy/SquareRoot.java) |
@@ -20,7 +20,7 @@
 | 16. | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/02-searching-solution/1-Easy/SpecialArray.java) |
 | 17. | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/02-searching-solution/1-Easy/BinarySearch.java) |
 
-## 2.Medium
+## 2.Medium 🟠
 | S.No | Questions | Solutions |
 | :---: | :---: | :---: |
 | 1. | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/02-searching-solution/2-Medium/FirstLastPosition.java) | 
@@ -41,5 +41,5 @@
 | 16. | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Pending |
 | 17. | [4 Sum](https://leetcode.com/problems/4sum/) | Pending |
 
-## 3.Hard
+## 3.Hard 🔴
 *Solutions will be soon updated*
