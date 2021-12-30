@@ -33,5 +33,18 @@
 | 29. | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/03-sorting-solution/1-Easy/FindMismatch.java) |
 | 30. | [2Sum](https://leetcode.com/problems/two-sum/) | Pending |
 ## 2. Medium 🟠
-
+| S.No | Questions | Solutions |
+|:--: | :--: | :--: |
+| 1. | [3Sum](https://leetcode.com/problems/3sum/) | Pending |
+| 2. | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Pending |
+| 3. | [4Sum](https://leetcode.com/problems/4sum/) | Pending |
+| 4. | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Pending |
+| 5. | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Pending |
+| 6. | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Pending |
+| 7. | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | Pending |
+| 8. | [Sort List](https://leetcode.com/problems/sort-list/) | Pending |
+| 9. | [Largest Number](https://leetcode.com/problems/largest-number/) | Pending |
+| 10. | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Pending |
+| 11. | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/03-sorting-solution/2-Medium/Find_Duplicate.java) |
+| 12. | [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/03-sorting-solution/2-Medium/FindAllDuplicates.java) |
 ## 3. Hard 🔴
