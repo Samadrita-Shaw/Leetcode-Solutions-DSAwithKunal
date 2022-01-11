@@ -21,3 +21,9 @@
 | 17. | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/04-string-solution/1-Easy/Valid_Palindrome_Two.java) |
 | 18. | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/04-string-solution/1-Easy/longest_prefix.java) |
 | 19. | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/04-string-solution/1-Easy/Maximum_Repeating.java) |
+| 20. | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/04-string-solution/1-Easy/Contiguous_BinaryOne.java) |
+| 21. | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | |
+| 22. | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | |
+| 23. | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | |
+| 24. | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | |
+| 25. | [Length of last word](https://leetcode.com/problems/length-of-last-word/) | |
