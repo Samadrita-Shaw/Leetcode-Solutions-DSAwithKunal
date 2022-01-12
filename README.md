@@ -12,6 +12,12 @@
 - [ ] Linked List
 - [ ] Stack and Queue
 
+➡Topics which are open for contribution: <br>
+- [x] Flow of program
+- [x] First Java Programs
+- [ ] Conditions and loops [*Closed*]
+- [x] Functions
+
 ➡I'll be updating this repo as soon as I complete other questions.
 
 For understanding the topics and assignment questions : [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) <br>
