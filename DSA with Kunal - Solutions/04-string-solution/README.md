@@ -29,3 +29,24 @@
 | 25. | [Length of last word](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/04-string-solution/1-Easy/Length_of_last.java) |
 
 ## 2. Medium 🟠
+| S.No | Questions | Solutions |
+|:--: | :--: | :--: |
+| [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | |
+| [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | |
+| [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | |
+| [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) | |
+| [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | |
+| [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | |
+| [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) | |
+| [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | |
+| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | |
+| [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | |
+| [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | |
+| [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | |
+| [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | |
+| [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | |
+| [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | |
+| [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | |
+| [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | |
+| [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | |
+| [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | |
