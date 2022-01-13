@@ -27,3 +27,5 @@
 | 23. | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/04-string-solution/1-Easy/Roman_Strings.java) |
 | 24. | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | *Will be uploaded after stack and queue* |
 | 25. | [Length of last word](https://leetcode.com/problems/length-of-last-word/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/04-string-solution/1-Easy/Length_of_last.java) |
+
+## 2. Medium 🟠
