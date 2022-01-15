@@ -32,7 +32,7 @@
 | S.No | Questions | Solutions |
 |:--: | :--: | :--: |
 | 1 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | |
-| 2 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | |
+| 2 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | [Solution](https://github.com/Samadrita-Shaw/Leetcode-Solutions-DSAwithKunal/blob/main/DSA%20with%20Kunal%20-%20Solutions/04-string-solution/1-Easy/Split_Palindrome.java) |
 | 3 | [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | |
 | 4 | [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) | |
 | 5 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | |
