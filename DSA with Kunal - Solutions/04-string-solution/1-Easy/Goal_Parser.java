@@ -8,8 +8,6 @@ public class Goal_Parser {
     }
     public static String interpret(String command) {
         StringBuilder str = new StringBuilder();
-        if( command==null || command.length()==0)
-            return command;
 
         for(int i = 0; i< command.length(); i++)
         {
