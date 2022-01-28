@@ -5,7 +5,7 @@
 - [x] Searching
 - [x] Sorting (*in progress*)
 - [x] Strings (*in progress*)
-- [ ] Patterns
+- [x] Patterns
 - [ ] Recursion
 - [ ] Bitwise
 - [ ] Maths
