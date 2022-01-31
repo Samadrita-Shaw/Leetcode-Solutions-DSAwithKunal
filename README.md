@@ -6,6 +6,7 @@
 - [x] Sorting (*in progress*)
 - [x] Strings (*in progress*)
 - [x] Patterns
+- [ ] Complexities
 - [ ] Recursion
 - [ ] Bitwise
 - [ ] Maths
