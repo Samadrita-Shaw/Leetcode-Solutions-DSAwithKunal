@@ -10,6 +10,9 @@ public class PowerOfTwoOrNot {
     }
     public static String powerOfTwo(int n)
     {
+        if(n==0)    //exception case
+            return "not a power of two.";
+        
         if((n & (n-1))==0)
             return "a power of two.";
         else
