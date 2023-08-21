@@ -10,7 +10,7 @@ public class FloorNumber
     public static int floor(int[] arr, int target)
     {
         int start=0,end=arr.length-1;
-        if(target>arr[end])
+        if(target<arr[end])
             return -1;
         else
         {
